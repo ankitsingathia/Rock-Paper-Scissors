@@ -59,3 +59,20 @@ img{
 #comp-score{
     font-size: 4rem;
 }
+
+#msg{
+    background-color: black;
+    color: white;
+    font-size: 2rem;
+    display: inline;
+    align-items: center;
+    padding: 1rem;
+    border-radius:1.5rem ;
+}
+
+.msg-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
